@@ -1,2 +1,2 @@
 hi this is git
-first updated
+first updated and modified file
